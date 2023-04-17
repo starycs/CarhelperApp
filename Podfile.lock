@@ -1,0 +1,20 @@
+PODS:
+  - FSCalendar (2.8.4)
+  - Layoutless (0.4.1)
+
+DEPENDENCIES:
+  - FSCalendar
+  - Layoutless
+
+SPEC REPOS:
+  trunk:
+    - FSCalendar
+    - Layoutless
+
+SPEC CHECKSUMS:
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  Layoutless: ba4810c682855373bddc78d9408cc82f970541d0
+
+PODFILE CHECKSUM: 57d6bf5f9098cf5d8a52dc88e3740192c312c9a6
+
+COCOAPODS: 1.11.3
