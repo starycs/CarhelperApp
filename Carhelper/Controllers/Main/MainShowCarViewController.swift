@@ -13,6 +13,8 @@ class MainShowCarViewController: UIViewController {
     
     //some code
     //sasassa
+    //676767
+    //hhjbhj
     
     let header = CarTopCard()
     let footer = ButtonCardViewInfo()
